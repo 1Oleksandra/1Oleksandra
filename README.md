@@ -1,8 +1,8 @@
-<h1 align="center">🌿 Oleksandra | Front-End Developer</h1>
+<h1 align="center"> Oleksandra | Front-End Developer </h1>
 
 ---
 
-### 🧬 Про мене
+###  Про мене
 
 - 🎨 Володію HTML, CSS, JavaScript, TypeScript, Figma + адаптивна верстка.
 У фокусі — чиста структура, інтерактивність, модульність.
