@@ -2,35 +2,35 @@
 
 ---
 
-###  Про мене
+###  About Me
 
-- 🎨 Володію HTML, CSS, JavaScript, TypeScript, Figma + адаптивна верстка.
-У фокусі — чиста структура, інтерактивність, модульність.
+- 🎨 Skilled in HTML, CSS, JavaScript, TypeScript, Figma + responsive design.
+Focused on clean structure, interactivity, and modularity.
 
 ### 📁 Закріплені проєкти
 
 | Назва | Опис |
 |------|------|
-| Grizzle | Фріланс-проєкт. Створений мною в Figma. Багатосторінковий адаптивний сайт, використовується HTML, CSS та JavaScript, без бібліотек. Адаптивна верстка. Створила fetch API і JSON (динамічний контент)|
-| PHOTOSNAP | Багатосторінковий адаптивний сайт, створений з використанням HTML, CSS та JavaScript. Реалізовано модульну структуру, інтерактивні компоненти та асинхронну логіку.|
-| BMI калькулятор | Інтерактивний калькулятор для визначення індексу маси тіла (BMI), створений на HTML, CSS та JavaScript. |
-| Gallery | Адаптивна веб-галерея, створена з використанням HTML, CSS та JavaScript. Реалізовано карусельний слайдер, асинхронне завантаження контенту та гнучке позиціонування елементів. |
-| Design-Solutions | Односторінковий адаптивний сайт, створений для демонстрації сучасних веб-рішень. Включає кастомний слайдер на чистому JavaScript, адаптивну верстку та естетичну структуру. |
-| PayAPI | Багатосторінковий адаптивний сайт. - HTML5, CSS3 (адаптивна верстка, медіа-запити, плавні hover-ефекти), JavaScript (бургер-меню, форма зворотного зв’язку, динамічний header/footer, навігація без перезавантаження) |
-| Tip Calculator | Калькулятор чайових, створений для практики JavaScript. Дозволяє швидко розрахувати загальну суму чайових та суму, яку має заплатити кожен гість. |
+| Grizzle | Freelance project created in Figma. A multi‑page responsive website built with HTML, CSS, and JavaScript (without libraries). Includes responsive layout, fetch API, and JSON for dynamic content.|
+| PHOTOSNAP | Multi‑page responsive website using HTML, CSS, and JavaScript. Implemented modular structure, interactive components, and asynchronous logic.|
+| BMI Calculator | Interactive calculator for Body Mass Index (BMI), built with HTML, CSS, and JavaScript. |
+| Gallery | Responsive web gallery using HTML, CSS, and JavaScript. Features carousel slider, asynchronous content loading, and flexible element positioning. |
+| Design-Solutions | One‑page responsive website showcasing modern web solutions. Includes a custom slider in pure JavaScript, responsive layout, and aesthetic structure. |
+| PayAPI | Multi‑page responsive website. Built with HTML5, CSS3 (responsive layout, media queries, smooth hover effects), JavaScript (burger menu, feedback form, dynamic header/footer, navigation without reload). |
+| Tip Calculator | Tip calculator built for JavaScript practice. Allows quick calculation of total tips and the amount each guest should pay. |
 
 
 
-## 🔧 Технології
-- Figma (UI/UX дизайн)
+## 🔧 Technologies
+- Figma (UI/UX design)
 - HTML5 / CSS3 / JavaScript (Vanilla)
 - Flexbox, Grid, Position, Table
-- Адаптивна верстка, медіа-запити
-- Fetch-запити, асинхронність
-- Модульна структура: компоненти, JSON-дані
+- Responsive design, media queries
+- Fetch requests, asynchronous logic
+- Modular structure: components, JSON data
 
+<h3 align="center">📫 Contacts</h3>
 ---
-<h3 align="center">📫 Контакти</h3>
 <p align="center">
   💌 <a href="mailto:olexsandrapavlenko@gmail.com">olexsandrapavlenko@gmail.com</a> <br>
   🔵 <a href="https://t.me/Oleksandra_Pavlenko1">Telegram: Oleksandra_Pavlenko1</a> <br>
