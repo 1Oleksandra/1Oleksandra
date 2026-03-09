@@ -7,7 +7,7 @@
 - 🎨 Skilled in HTML, CSS, JavaScript, TypeScript, Figma + responsive design.
 Focused on clean structure, interactivity, and modularity.
 
-### 📁 Закріплені проєкти
+### 📁 Projects
 
 | Назва | Опис |
 |------|------|
