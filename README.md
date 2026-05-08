@@ -13,10 +13,10 @@ Focused on clean structure, interactivity, and modularity.
 |------|------|
 | Frontend Developer Landing Page | Landing page for enrolling in a Frontend Developer course	HTML5, CSS3 (Flexbox, animations, gradients, media queries), JavaScript (DOM, events, validation)	Responsive design, scroll animations, interactive registration form|
 | Unreal Engine Course Landing Page | Landing page for an Unreal Engine course	HTML5, CSS3, JavaScript	Dynamic animations, adaptive layout, promo effects, active registration form|
-| Grizzle | Freelance project created in Figma. A multi‑page responsive website built with HTML, CSS, and JavaScript (without libraries). Includes responsive layout, fetch API, and JSON for dynamic content.|
-| PHOTOSNAP | Multi‑page responsive website using HTML, CSS, and JavaScript. Implemented modular structure, interactive components, and asynchronous logic.|
-| Gallery | Responsive web gallery using HTML, CSS, and JavaScript. Features carousel slider, asynchronous content loading, and flexible element positioning. |
-| Design-Solutions | One‑page responsive website showcasing modern web solutions. Includes a custom slider in pure JavaScript, responsive layout, and aesthetic structure. |
+| Grizzle multipage| Freelance project created in Figma. A multi‑page responsive website built with HTML, CSS, and JavaScript (without libraries). Includes responsive layout, fetch API, and JSON for dynamic content.|
+| PHOTOSNAP multipage| Multi‑page responsive website using HTML, CSS, and JavaScript. Implemented modular structure, interactive components, and asynchronous logic.|
+| Gallery multipage| Responsive web gallery using HTML, CSS, and JavaScript. Features carousel slider, asynchronous content loading, and flexible element positioning. |
+
 
 
 
