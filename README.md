@@ -11,13 +11,13 @@ Focused on clean structure, interactivity, and modularity.
 
 | Назва | Опис |
 |------|------|
+| Frontend Developer Landing Page | Landing page for enrolling in a Frontend Developer course	HTML5, CSS3 (Flexbox, animations, gradients, media queries), JavaScript (DOM, events, validation)	Responsive design, scroll animations, interactive registration form|
+| Unreal Engine Course Landing Page | Landing page for an Unreal Engine course	HTML5, CSS3, JavaScript	Dynamic animations, adaptive layout, promo effects, active registration form|
 | Grizzle | Freelance project created in Figma. A multi‑page responsive website built with HTML, CSS, and JavaScript (without libraries). Includes responsive layout, fetch API, and JSON for dynamic content.|
 | PHOTOSNAP | Multi‑page responsive website using HTML, CSS, and JavaScript. Implemented modular structure, interactive components, and asynchronous logic.|
-| BMI Calculator | Interactive calculator for Body Mass Index (BMI), built with HTML, CSS, and JavaScript. |
 | Gallery | Responsive web gallery using HTML, CSS, and JavaScript. Features carousel slider, asynchronous content loading, and flexible element positioning. |
 | Design-Solutions | One‑page responsive website showcasing modern web solutions. Includes a custom slider in pure JavaScript, responsive layout, and aesthetic structure. |
-| PayAPI | Multi‑page responsive website. Built with HTML5, CSS3 (responsive layout, media queries, smooth hover effects), JavaScript (burger menu, feedback form, dynamic header/footer, navigation without reload). |
-| Tip Calculator | Tip calculator built for JavaScript practice. Allows quick calculation of total tips and the amount each guest should pay. |
+
 
 
 
