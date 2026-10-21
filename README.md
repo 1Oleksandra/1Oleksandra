@@ -1,50 +1,85 @@
-<h1 align="center"> Oleksandra | Front-End Developer | UI/UX Designer </h1>
+# 👋 Hi, I'm Oleksandra Pavlenko
+
+### Frontend Developer & UI/UX Designer
 
 ---
 
-### About Me
+## About Me
 
-- 🚀 Frontend Developer & UI/UX Designer creating modern web experiences from concept to deployment.
-Skilled in Figma, React, JavaScript, TypeScript, HTML, and CSS, with a focus on usability, visual design, responsiveness, and interactive interfaces.
+🚀 Frontend Developer & UI/UX Designer creating modern web experiences from concept to deployment.
 
-### 📁 Projects
+I design user-centered interfaces in Figma and transform them into responsive web applications using React, JavaScript, TypeScript, HTML, and CSS.
 
-| Назва | Опис |
-|------|------|
-| Frontend Developer Landing Page | Landing page for enrolling in a Frontend Developer course	HTML5, CSS3 (Flexbox, animations, gradients, media queries), JavaScript (DOM, events, validation)	Responsive design, scroll animations, interactive registration form|
-| Unreal Engine Course Landing Page | Landing page for an Unreal Engine course	HTML5, CSS3, JavaScript	Dynamic animations, adaptive layout, promo effects, active registration form|
-| Grizzle multipage| Freelance project created in Figma. A multi‑page responsive website built with HTML, CSS, and JavaScript (without libraries). Includes responsive layout, fetch API, and JSON for dynamic content.|
-| PHOTOSNAP multipage| Multi‑page responsive website using HTML, CSS, and JavaScript. Implemented modular structure, interactive components, and asynchronous logic.|
-| Gallery multipage| Responsive web gallery using HTML, CSS, and JavaScript. Features carousel slider, asynchronous content loading, and flexible element positioning. |
-| ITLEO Academy Educational Platform | Educational platform for adults and children; React, JavaScript (ES6+), CSS Modules, responsive design Parallax scrolling, animated code sections, interactive components, micro-animations |
+Focused on usability, visual design, component-based architecture, responsive layouts, and interactive user experiences.
 
+---
 
+## 📁 Featured Projects
 
+| Project | Description |
+|----------|----------|
+| 🎓 ITLEO Academy | Educational platform for adults and children. Built with React, JavaScript, and CSS Modules. Features responsive design, parallax scrolling, animated code sections, interactive UI components, and micro-animations. |
+| 💄 Salon Dena | Premium beauty salon website designed with a focus on elegant UI/UX, responsive design, reusable React components, and modern web interactions. |
+| 🐻 Grizzle | Freelance multi-page website designed in Figma and developed with HTML, CSS, and JavaScript. Includes responsive layout, Fetch API integration, and dynamic content loaded from JSON files. |
+| 🚀 Frontend Developer Landing Page | Landing page for enrolling in a Frontend Developer course. Built with HTML, CSS, and JavaScript. Features scroll animations, responsive design, and an interactive registration form. |
+| 🎮 Unreal Engine Course Landing Page | Promotional landing page for an Unreal Engine course with adaptive layout, dynamic animations, and interactive registration form. |
+| 📸 Photosnap | Multi-page responsive website built with HTML, CSS, and JavaScript. Includes modular architecture, interactive UI elements, and asynchronous functionality. |
+| 🖼️ Gallery | Responsive gallery project featuring carousel slider, asynchronous content loading, and dynamic user interactions. |
 
+---
 
 ## 🔧 Technologies
 
-- Figma (UI/UX Design, Prototyping)
-- HTML5 / CSS3 / JavaScript (ES6+)
+### Frontend Development
+
 - React
+- JavaScript (ES6+)
+- TypeScript
+- HTML5
+- CSS3
 - CSS Modules
-- Responsive Design & Mobile-First Approach
-- Flexbox, Grid, Positioning
-- DOM Manipulation & Event Handling
-- Fetch API & Asynchronous JavaScript
-- Component-Based Architecture
-- JSON Data Handling
+
+### UI/UX Design
+
+- Figma
+- Wireframing
+- Prototyping
+- User Interface Design
+- User Experience Design
+- Design Systems
+
+### Development & Tools
+
 - Git & GitHub
+- Fetch API
+- REST API
+- JSON Data Handling
+- Responsive Design
+- Mobile-First Approach
+- Component-Based Architecture
+- DOM Manipulation & Event Handling
 
-<h3 align="center">📫 Contacts</h3>
 ---
-<p align="center">
-  💌 <a href="mailto:olexsandrapavlenko@gmail.com">olexsandrapavlenko@gmail.com</a> <br>
-  🔵 <a href="https://t.me/Oleksandra_Pavlenko1">Telegram: Oleksandra_Pavlenko1</a> <br>
-  🟢 <a href="https://wa.me/905068329056">WhatsApp: Oleksandra</a> <br>
-  💼 <a href="https://linkedin.com/in/olesya-dev](https://www.linkedin.com/in/%D0%BE%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%B0-%D0%BF%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%BA%D0%BE-59759098">LinkedIn</a> <br>
-</p>
 
+## 🌍 Currently
 
+- 💻 Frontend Developer at ITLEO Academy
+- 🎨 Designing interfaces and prototypes in Figma
+- 🚀 Building responsive React applications
+- 📚 Improving React and TypeScript skills
+- 🌐 Open to remote opportunities and freelance projects
 
+---
+
+## 📫 Contacts
+
+- 💌 Email: [olexsandrapavlenko@gmail.com](mailto:olexsandrapavlenko@gmail.com)
+- 🔵 Telegram: https://t.me/Oleksandra_Pavlenko1
+- 🟢 WhatsApp: https://wa.me/905068329056
+- 💼 LinkedIn: https://www.linkedin.com/in/oleksandra-pavlenko-59759098/
+- 💻 GitHub: https://github.com/1Oleksandra
+
+---
+
+⭐ From Figma to Production: designing and building complete web experiences.
 
