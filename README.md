@@ -23,12 +23,18 @@ Focused on clean structure, interactivity, and modularity.
 
 
 ## 🔧 Technologies
-- Figma (UI/UX design)
-- HTML5 / CSS3 / JavaScript (Vanilla)
-- Flexbox, Grid, Position, Table
-- Responsive design, media queries
-- Fetch requests, asynchronous logic
-- Modular structure: components, JSON data
+
+- Figma (UI/UX Design, Prototyping)
+- HTML5 / CSS3 / JavaScript (ES6+)
+- React
+- CSS Modules
+- Responsive Design & Mobile-First Approach
+- Flexbox, Grid, Positioning
+- DOM Manipulation & Event Handling
+- Fetch API & Asynchronous JavaScript
+- Component-Based Architecture
+- JSON Data Handling
+- Git & GitHub
 
 <h3 align="center">📫 Contacts</h3>
 ---
