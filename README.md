@@ -16,6 +16,9 @@ Focused on clean structure, interactivity, and modularity.
 | Grizzle multipage| Freelance project created in Figma. A multi‑page responsive website built with HTML, CSS, and JavaScript (without libraries). Includes responsive layout, fetch API, and JSON for dynamic content.|
 | PHOTOSNAP multipage| Multi‑page responsive website using HTML, CSS, and JavaScript. Implemented modular structure, interactive components, and asynchronous logic.|
 | Gallery multipage| Responsive web gallery using HTML, CSS, and JavaScript. Features carousel slider, asynchronous content loading, and flexible element positioning. |
+| ITLEO Academy Educational Platform | Educational platform for adults and children
+React, JavaScript (ES6+), CSS Modules, responsive design
+Parallax scrolling, animated code sections, interactive components, micro-animations |
 
 
 
