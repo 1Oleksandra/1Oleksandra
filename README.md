@@ -4,8 +4,8 @@
 
 ### About Me
 
--  Frontend Developer skilled in React, JavaScript (ES6+), TypeScript, HTML, CSS, and Figma.
-Focused on building responsive, user-friendly interfaces with clean architecture, reusable components, and engaging user experiences.
+- 🚀 Frontend Developer & UI/UX Designer creating modern web experiences from concept to deployment.
+Skilled in Figma, React, JavaScript, TypeScript, HTML, and CSS, with a focus on usability, visual design, responsiveness, and interactive interfaces.
 
 ### 📁 Projects
 
