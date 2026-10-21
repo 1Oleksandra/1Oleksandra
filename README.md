@@ -2,10 +2,10 @@
 
 ---
 
-###  About Me
+### About Me
 
-- 🎨 Skilled in HTML, CSS, JavaScript, TypeScript, Figma + responsive design.
-Focused on clean structure, interactivity, and modularity.
+-  Frontend Developer skilled in React, JavaScript (ES6+), TypeScript, HTML, CSS, and Figma.
+Focused on building responsive, user-friendly interfaces with clean architecture, reusable components, and engaging user experiences.
 
 ### 📁 Projects
 
