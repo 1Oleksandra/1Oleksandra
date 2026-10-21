@@ -1,4 +1,4 @@
-<h1 align="center"> Oleksandra | Front-End Developer </h1>
+<h1 align="center"> Oleksandra | Front-End Developer | UI/UX Designer </h1>
 
 ---
 
