@@ -19,7 +19,6 @@ Focused on usability, visual design, component-based architecture, responsive la
 | Project | Description |
 |----------|----------|
 | 🎓 ITLEO Academy | Educational platform for adults and children. Built with React, JavaScript, and CSS Modules. Features responsive design, parallax scrolling, animated code sections, interactive UI components, and micro-animations. |
-| 💄 Salon Dena | Premium beauty salon website designed with a focus on elegant UI/UX, responsive design, reusable React components, and modern web interactions. |
 | 🐻 Grizzle | Freelance multi-page website designed in Figma and developed with HTML, CSS, and JavaScript. Includes responsive layout, Fetch API integration, and dynamic content loaded from JSON files. |
 | 🚀 Frontend Developer Landing Page | Landing page for enrolling in a Frontend Developer course. Built with HTML, CSS, and JavaScript. Features scroll animations, responsive design, and an interactive registration form. |
 | 🎮 Unreal Engine Course Landing Page | Promotional landing page for an Unreal Engine course with adaptive layout, dynamic animations, and interactive registration form. |
